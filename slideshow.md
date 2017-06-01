@@ -11,7 +11,7 @@
 
 ---
 
-## Outline
+## Agenda
 
 * Introduction
 * Motivation for approach
