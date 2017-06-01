@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="js"/>
+	<classpathentry kind="src" path="lib/js"/>
+	<classpathentry kind="src" path="plugin/highlight"/>
+	<classpathentry kind="src" path="plugin/leap"/>
+	<classpathentry kind="src" path="plugin/markdown"/>
+	<classpathentry kind="src" path="plugin/math"/>
+	<classpathentry kind="src" path="plugin/multiplex"/>
+	<classpathentry kind="src" path="plugin/notes"/>
+	<classpathentry kind="src" path="plugin/notes-server"/>
+	<classpathentry kind="src" path="plugin/print-pdf"/>
+	<classpathentry kind="src" path="plugin/remotes"/>
+	<classpathentry kind="src" path="plugin/search"/>
+	<classpathentry kind="src" path="plugin/zoom-js"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
