@@ -1,10 +1,10 @@
-<img src="images/capital_one_logo.png" height="150px"></img>
+<img src="images/grainger-logo1.png" height="150px"></img>
 
-## Entity relationship ranking using differential keyword-role affinity
+## AUTOMATION UPDATES
 
 <br>
 
-### Rohit Naini, Pawan Yadav
+### Bharath Kallu
 ### May, 2017
 
 <br>
